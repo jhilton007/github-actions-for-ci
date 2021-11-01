@@ -1,1 +1,2 @@
-name: This is killing me slowly
+name: Team awesome's approval workflow
+on: pull_request_review
